@@ -1,5 +1,5 @@
 ---
 inherit: base-manifest.yml
 applications:
-  - name: springpong-dev
-    host: springong-dev
+  - name: scotia-springpong-dev
+    host: scotia-springong-dev
