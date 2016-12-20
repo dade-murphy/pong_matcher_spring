@@ -1,0 +1,4 @@
+---
+inherit: base-manifest.yml
+applications:
+  - name: springpong-dev
