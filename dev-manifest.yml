@@ -2,3 +2,4 @@
 inherit: base-manifest.yml
 applications:
   - name: springpong-dev
+    host: springong-dev
