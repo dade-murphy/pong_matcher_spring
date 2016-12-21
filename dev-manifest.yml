@@ -3,3 +3,5 @@ inherit: base-manifest.yml
 applications:
   - name: scotia-springpong-dev
     host: scotia-springong-dev
+    buildpack: java_buildpack
+    path: target/pong-matcher-spring-1.0.0.BUILD-SNAPSHOT.jar
