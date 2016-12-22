@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: scotia-springpong-dev
+  - name: scotia-springpong
     buildpack: java_buildpack
     services:
       - mysql
