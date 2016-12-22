@@ -1,4 +1,3 @@
 ---
 applications:
   - name: scotia-springpong
-    buildpack: java_buildpack
