@@ -1,3 +1,6 @@
 ---
 applications:
-  - name: scotia-springpong
+  - buildpack: java_buildpack
+    path: target/pong-matcher-spring-1.0.0.BUILD-SNAPSHOT.jar
+    services:
+      - mysql
